@@ -48,7 +48,7 @@ Vagrant.configure("2") do |config|
                 'install' => true,
             },
             'source' => {
-                'version' => 'magento-1.8.0.0-alpha1',
+                'version' => 'magento-1.7.0.2',
             },
             'sample_data' => {
                 'install' => true,
